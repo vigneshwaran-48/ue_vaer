@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\private\\inventorysystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\definitions.inventorysystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\public\\inventorysystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

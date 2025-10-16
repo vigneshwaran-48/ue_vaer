@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InventorySystem.cpp.obj": [
+			"InventoryItem.gen.cpp.obj",
+			"InventorySystem.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"InventoryItem.cpp.obj",
+			"InventorySystem.cpp.obj"
+		]
+	}
+}

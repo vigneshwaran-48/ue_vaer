@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\private\\interactableinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsystem\\definitions.interactionsystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactableinterface.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactableinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

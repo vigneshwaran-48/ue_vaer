@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\module.inventorysystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\definitions.inventorysystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventorycomponent.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\public\\inventorycomponent.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventorycomponent.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventoryitem.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\public\\inventoryitem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventoryitem.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventorysystem.init.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

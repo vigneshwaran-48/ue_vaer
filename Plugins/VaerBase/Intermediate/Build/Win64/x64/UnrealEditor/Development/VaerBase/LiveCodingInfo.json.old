@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VaerBase.cpp.obj": [
+			"PlayerGameplayAbilitiesDataAsset.gen.cpp.obj",
+			"VaerBase.init.gen.cpp.obj",
+			"VaerLoggingUtil.gen.cpp.obj",
+			"VCharacter.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"PlayerGameplayAbilitiesDataAsset.cpp.obj",
+			"VaerLoggingUtil.cpp.obj",
+			"VaerBase.cpp.obj",
+			"VCharacter.cpp.obj"
+		]
+	}
+}

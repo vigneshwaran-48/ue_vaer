@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\private\\interactioncomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsystem\\definitions.interactionsystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactioncomponent.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactioncomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactableinterface.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactableinterface.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\public\\log\\vaerloggingutil.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\unrealeditor\\inc\\vaerbase\\uht\\vaerloggingutil.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

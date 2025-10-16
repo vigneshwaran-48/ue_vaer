@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InteractionSystem.cpp.obj": [
+			"InteractableInterface.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"InteractionSystem.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"InteractableInterface.cpp.obj",
+			"InteractionComponent.cpp.obj",
+			"InteractionSystem.cpp.obj"
+		]
+	}
+}

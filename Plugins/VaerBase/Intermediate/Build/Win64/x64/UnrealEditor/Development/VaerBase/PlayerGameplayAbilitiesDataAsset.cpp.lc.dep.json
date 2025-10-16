@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\private\\input\\playergameplayabilitiesdataasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vaerbase\\definitions.vaerbase.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\public\\input\\playergameplayabilitiesdataasset.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\unrealeditor\\inc\\vaerbase\\uht\\playergameplayabilitiesdataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

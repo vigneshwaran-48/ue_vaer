@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\private\\interactables\\baseinteractable.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsystem\\definitions.interactionsystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactables\\baseinteractable.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactableinterface.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactableinterface.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\baseinteractable.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

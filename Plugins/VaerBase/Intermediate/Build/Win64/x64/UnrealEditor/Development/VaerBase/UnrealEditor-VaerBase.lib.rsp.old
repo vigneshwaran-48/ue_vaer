@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VaerBase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Intermediate/Build/Win64/x64/VaerEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/Module.VaerBase.cpp.obj"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/VaerBase.cpp.obj"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/VCharacter.cpp.obj"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/PlayerGameplayAbilitiesDataAsset.cpp.obj"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/VaerLoggingUtil.cpp.obj"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/Default.rc2.res"
+/OUT:"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/UnrealEditor-VaerBase.lib"

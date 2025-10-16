@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\private\\inventorycomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\definitions.inventorysystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\public\\inventorycomponent.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventorycomponent.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\public\\log\\vaerloggingutil.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\unrealeditor\\inc\\vaerbase\\uht\\vaerloggingutil.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\public\\vaergameinstance.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\unrealeditor\\inc\\vaerbase\\uht\\vaergameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

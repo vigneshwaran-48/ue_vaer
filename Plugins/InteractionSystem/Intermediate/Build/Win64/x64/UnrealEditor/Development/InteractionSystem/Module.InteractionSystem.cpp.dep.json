@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsystem\\module.interactionsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vicky\\documents\\unreal projects\\vaer\\intermediate\\build\\win64\\x64\\vaereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsystem\\definitions.interactionsystem.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\baseinteractable.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactables\\baseinteractable.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactableinterface.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactableinterface.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\baseinteractable.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactableinterface.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactioncomponent.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\source\\interactionsystem\\public\\interactioncomponent.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactioncomponent.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionsystem\\uht\\interactionsystem.init.gen.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\interactionsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\interactionsystem\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
