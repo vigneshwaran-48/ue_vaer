@@ -5,3 +5,8 @@
 #include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/UnrealEditor/Inc/VaerBase/UHT/VaerLoggingUtil.gen.cpp"
 #include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/UnrealEditor/Inc/VaerBase/UHT/VCharacter.gen.cpp"
 #include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/PerModuleInline.gen.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Source/VaerBase/Private/Input/PlayerGameplayAbilitiesDataAsset.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Source/VaerBase/Private/Log/VaerLoggingUtil.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Source/VaerBase/Private/VaerBase.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Source/VaerBase/Private/VaerGameInstance.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Source/VaerBase/Private/VCharacter.cpp"

@@ -3,3 +3,6 @@
 #include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/InventorySystem/Intermediate/Build/Win64/UnrealEditor/Inc/InventorySystem/UHT/InventoryItem.gen.cpp"
 #include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/InventorySystem/Intermediate/Build/Win64/UnrealEditor/Inc/InventorySystem/UHT/InventorySystem.init.gen.cpp"
 #include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/InventorySystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/InventorySystem/PerModuleInline.gen.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/InventorySystem/Source/InventorySystem/Private/InventoryComponent.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/InventorySystem/Source/InventorySystem/Private/InventoryItem.cpp"
+#include "C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/InventorySystem/Source/InventorySystem/Private/InventorySystem.cpp"

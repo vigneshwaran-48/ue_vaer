@@ -28,8 +28,10 @@ class VAERBASE_API AVCharacter : public ACharacter,
 
   virtual UAbilitySystemComponent* GetAbilitySystemComponent() const override;
 
- private:
+  UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "AbilitiySystem")
+  TArray<TSubclassOf<UGameplayAbility>> DefaultAbilities;
 
+ private:
   UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "AbilitySystem",
             meta = (AllowPrivateAccess = "true"))
   TObjectPtr<UPlayerGameplayAbilitiesDataAsset>

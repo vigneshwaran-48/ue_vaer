@@ -46,6 +46,7 @@
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Engine/UnrealEditor-Engine.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Slate/UnrealEditor-Slate.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/SlateCore/UnrealEditor-SlateCore.lib"
+"C:/Users/Vicky/Documents/Unreal Projects/Vaer/Plugins/VaerBase/Intermediate/Build/Win64/x64/UnrealEditor/Development/VaerBase/UnrealEditor-VaerBase.lib"
 "../Intermediate/Build/Win64/x64/UnrealEditor/Development/Core/UnrealEditor-Core.lib"
 "delayimp.lib"
 "wininet.lib"

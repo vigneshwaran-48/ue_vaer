@@ -14,7 +14,15 @@
             "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventoryitem.generated.h",
             "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\unrealeditor\\inc\\inventorysystem\\uht\\inventorysystem.init.gen.cpp",
             "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\inventorysystem\\permoduleinline.gen.cpp",
-            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\private\\inventorycomponent.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\public\\log\\vaerloggingutil.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\unrealeditor\\inc\\vaerbase\\uht\\vaerloggingutil.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\source\\vaerbase\\public\\vaergameinstance.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\vaerbase\\intermediate\\build\\win64\\unrealeditor\\inc\\vaerbase\\uht\\vaergameinstance.generated.h",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\private\\inventoryitem.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\private\\inventorysystem.cpp",
+            "c:\\users\\vicky\\documents\\unreal projects\\vaer\\plugins\\inventorysystem\\source\\inventorysystem\\public\\inventorysystem.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

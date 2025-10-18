@@ -38,7 +38,9 @@ public class InteractionSystem : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				"VaerBase"
+				"VaerBase",
+				"GameplayTags",
+				"GameplayAbilities",
 			}
 			);
 		

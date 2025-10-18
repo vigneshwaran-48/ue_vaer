@@ -26,6 +26,14 @@ void AVCharacter::InitAbilitySystem() {
       }
     }
   }
+
+  // For abilities not mapped to input
+  for (TSubclassOf<UGameplayAbility> AbilityClass : DefaultAbilities) {
+    if (AbilityClass) {
+      AbilitySystemComponent->GiveAbility(
+          FGameplayAbilitySpec(AbilityClass, 1, INDEX_NONE, this));
+    }
+  }
 }
 
 void AVCharacter::OnAbilityInputPressed(int32 InputID) {

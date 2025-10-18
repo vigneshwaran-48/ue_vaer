@@ -20,4 +20,6 @@ ABaseInteractable::ABaseInteractable() {
 
 void ABaseInteractable::BeginPlay() { Super::BeginPlay(); }
 
-void ABaseInteractable::Highlight_Implementation(bool highlight) {}
+void ABaseInteractable::Highlight_Implementation(bool highlight) {
+  StaticMesh->SetRenderCustomDepth(highlight);
+}
